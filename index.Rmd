@@ -1,0 +1,7 @@
+---
+title: "ISSC Case Competition"
+site: distill::distill_website
+---
+
+The Independent Summer Statistics Community is a group of undergraduate students, staff and faculty from the Department of Statistical Sciences at the University of Toronto.
+

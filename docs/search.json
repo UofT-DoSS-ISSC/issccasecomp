@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "awards.html",
+      "title": "Awards",
+      "description": "Records of awards for the ISSC Case Competition",
+      "author": [],
+      "contents": "\nIf you have any questions or would like to verify a student’s participation, please reach out to the Case Competition Faculty Coordinator, Prof. Samantha-Jo Caetano at s.caetano@utoronto.ca.\n2021\nCategory\nAward\nTeam Name\nTeam members\nCitation\nMost Creative Data/Topic\nHonourable Mention\nRandom Error\nZihao Guo, Yujin Liu, Jialei Cai, Yingcong Zuo\n\nMost Creative Data/Topic\nWinner\nZero Point Five\nYi Qin, Pan Chen, Yini Mao, Xiaoxuan Han\nThis team had investigated multiple aspects of livability in Toronto. Two of which really stood out were the investigation of air quality and childcare.\nBest Presentation\nHonourable Mention (Dashboard)\nEKPY\nYounwoo Choi, Prashant Patel, Yilin Huang, Kevin Wang\nThis team developed a dashboard in Tableaux\nBest Presentation\nWinner (Slides)\nStatistically Significant\nJosé Casas, Janhavi Agarwal, Aliza Aziz Lakho, Xiaoke Jiang\nThis team was voted Best Presentation by all judges. Great usage of self-explanatory graphics. All team members spoke in the video presentation and all speakers were well paced and spoke very clearly.\nBest Insight\nHonourable Mention\nSuper Sonic\nSiqi Zheng, Haining Tan, Xiao Wu\nFirstly, the land acknowledgement is a great addition. This group investigated liveability from an international students’ perspective. Looking at crime rate, rent, food prices, social/transportation, and using in depth methods they were able to assess how liveable Toronto is. Great visualizations, we especially like the web graphic for grocery item prices.\nBest Insight\nWinner\nProspective Analytics\nEric Zhu, Jing Yuan Zhang, Sergio Zheng Zhou, Muhammad Tsany\nGood usage of the economics livability score (an already validated measure of livability). Their methods looked at: Stability, Healthcare, education, infrastructure, culture/environment by Toronto neighborhoods. Using external data, they invoked senior level methods to investigate livability. Also, great job mentioning limitations and next steps.\n\n\n\n",
+      "last_modified": "2021-07-26T18:53:55-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "ISSC Case Competition",
+      "author": [],
+      "contents": "\nThe Independent Summer Statistics Community is a group of undergraduate students, staff and faculty from the Department of Statistical Sciences at the University of Toronto.\n\n\n\n",
+      "last_modified": "2021-07-26T13:30:48-04:00"
+    }
+  ],
+  "collections": []
+}

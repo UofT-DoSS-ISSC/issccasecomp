@@ -7,9 +7,7 @@ The Independent Summer Statistics Community is a group of undergraduate students
 
 **Faculty and staff:** Samantha-Jo Caetano, Liza Bolton, Ivan Nguyen, Megan Whitehead-Douglas, Nathalie Moon, Nathan Taback
 
-# 2021
-
-## Theme: Livable Toronto
+# 2021: Livable Toronto
 
 Toronto, Ontario is home to more than 2.5 million people (depending on who you ask)[^1]. Not only is Toronto Canada's largest city[^2], it is also considered one of the most diverse in the world[^3] and is frequently ranked as one of the most livable cities in the world[^4]. It is no wonder there is much to explore and many stories to tell, but also questions to be answered. For example, what does 'livability' mean, and does that definition change depending on who you're talking to and how they engage with the city? As a team, your challenge is to tell a data-driven story about Toronto livability.
 

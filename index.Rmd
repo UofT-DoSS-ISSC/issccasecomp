@@ -3,5 +3,48 @@ title: "ISSC Case Competition"
 site: distill::distill_website
 ---
 
-The Independent Summer Statistics Community is a group of undergraduate students, staff and faculty from the Department of Statistical Sciences at the University of Toronto.
+The Independent Summer Statistics Community is a group of undergraduate students, staff and faculty from the [Department of Statistical Sciences at the University of Toronto](https://www.statistics.utoronto.ca/). Participating students are eligible to apply to compete in an annual case competition. See the awards page for previous winners.
 
+**Faculty and staff:** Samantha-Jo Caetano, Liza Bolton, Ivan Nguyen, Megan Whitehead-Douglas, Nathalie Moon, Nathan Taback
+
+# 2021
+
+## Theme: Livable Toronto
+
+Toronto, Ontario is home to more than 2.5 million people (depending on who you ask)[^1]. Not only is Toronto Canada's largest city[^2], it is also considered one of the most diverse in the world[^3] and is frequently ranked as one of the most livable cities in the world[^4]. It is no wonder there is much to explore and many stories to tell, but also questions to be answered. For example, what does 'livability' mean, and does that definition change depending on who you're talking to and how they engage with the city? As a team, your challenge is to tell a data-driven story about Toronto livability.
+
+[^1]: <https://www.ontario.ca/page/ontario-population-projections>; <https://worldpopulationreview.com/world-cities/toronto>; <https://canadapopulation.org/toronto-population/>
+
+[^2]: <https://www.geonames.org/CA/largest-cities-in-canada.html>
+
+[^3]: <https://theculturetrip.com/north-america/canada/articles/toronto-named-most-diverse-city-in-the-world-by-bbc-radio/>
+
+[^4]: <https://www.toronto.ca/city-government/data-research-maps/toronto-progress-portal/world-rankings-for-toronto/most-livable-cities/>
+
+Using open-source data, you will select an audience, for example: People living in Toronto; People moving to Toronto/considering moving to Toronto; Toronto politicians and/or government officials (Toronto City Council, Toronto City Parks and Rec, Shelters); Non-governmental organizations working in Toronto; or someone else; and tell a story using statistics to convey to them what livability means (or doesn't mean) and support your conclusion.
+
+## Final Products
+
+You will be asked to submit two items for judging. The primary item is a short (less than 6 minutes) video detailing your primary findings. The second is a one-page summary of your findings. Please follow these guidelines:
+
+### 1. Video
+
+Video length must be less than 6 minutes.The video should showcase either a slide deck or a dashboard.We recommend simplicity and suggest you create Power Point slides (or equivalent) and record a video playing the slides with audio. The video should begin with the team name and each members' names. We encourage visualizations and tables over lists of facts and numbers (which can be delivered via voice).The slide deck or dashboard need to be included in the group submission.
+
+### 2. Summary Paper
+
+The summary paper should be no more than 1 page, 12 point font, 1 inch margins, single spaced. Include: team name and members' names, primary questions that were investigated or the general goal of the project, methods used, and quick description of findings. You do not need to include visualizations, but can refer the reader to the video for any tables or graphs. You will not be penalized for your choice, but will be penalized for failing to disclose this information or for reaching a conclusion that is not supported by your choice. If you don't know what to include, then think of this as the script for your presentation.
+
+*Please note that if your video exceeds 6 minutes and/or your summary paper exceeds 1 page (or smaller font/margins) your team submission will NOT be considered for judging.*
+
+## Advice for getting started
+
+There is no data provided by the ISSC organizers for this Case Competition. Instead,we recommend you use the Toronto Open Data Portal to find a free, open dataset regarding Toronto to analyze.
+
+-   Toronto Open Data Portal
+
+    -   Source: <https://open.toronto.ca>
+
+    -   Instructions on how to grab data from the portal through R: <https://awstringer1.github.io/sta238-book/section-short-tutorial-on-pulling-data-for-assignment-1.html#section-toronto-open-data-portal> \
+
+While the datasets provided in the Toronto Open Data Portal cover a broad range of topics/variables, your analysis might still benefit from additional context. Thus, you are also allowed to use other open, freely available Toronto data from external sources of your choice. Ensure that your data is ethically sourced (i.e., don't webscrape if you're not allowed to web scrape) and that you adequately describe your data source(s).

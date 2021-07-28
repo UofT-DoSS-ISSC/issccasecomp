@@ -9,6 +9,8 @@ navbar:
       href: index.html
     - text: "Awards"
       href: awards.html
+    - icon: fa fa-music
+      href: https://music.youtube.com/playlist?list=PLbNVvLDdpWVIb4iCDCWYy5TwqYz0mSiNJ
 output:
   distill::distill_article:
     toc: true
